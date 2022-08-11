@@ -2,7 +2,7 @@ title: Page de Maxime Dion
 author: Maxime Dion
 email: maxime.dion@usherbrooke.ca
 description: >- # this means to ignore newlines until "baseurl:"
-    Page de Maxime Dion
+    Développeur quantique et chargé de cours
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oneminimax.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  oneminimax
