@@ -1,11 +1,3 @@
----
-title: À propos
-layout: page
-order: 1
----
-
-@import "{{ site.theme }}";
-
 # Mon rôle
 
 J'occupe le poste de développeur en informatique quantique à l'AlgoLab quantique la plateforme de calcul quantique de l'Institut quantique de l'Université de Sherbrooke. 
