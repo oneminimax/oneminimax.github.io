@@ -6,6 +6,8 @@ Je suis également chargé de cours dans le nouveau Baccalauréat en sciences de
 
 # Notes
 
+Je partage des notes que j'ai écrites pour des cours et de projets de recherche.
+
 ## Introduction au calcul quantique (<a href="./notes/introduction%20calcul%20quantique.pdf" target="_blank">PDF</a>)
 
 Une introduction au calcul quantique. Notes utilisées dans le cadre du cours BSQ 110.
