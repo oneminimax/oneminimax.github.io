@@ -31,19 +31,9 @@
     </div>
 
     <!-- FOOTER  -->
-    <!-- {% include footer.html %} -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        {%- if site.author -%}
-            {{ site.author | escape }}
-        {%- else -%}
-            {{ site.title | escape }}
-        {%- endif -%}
-        {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        {%- endif -%}
-
-        {%- include social.html -%}
+        <!-- {%- include social.html -%} -->
 
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
