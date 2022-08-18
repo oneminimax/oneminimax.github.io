@@ -17,4 +17,4 @@ Je partage des notes que j'ai écrites pour des cours et de projets de recherche
 
 Une introduction au calcul quantique. Notes utilisées dans le cadre du cours BSQ 110.
 
-Dernière version : 11 août 2022
+Dernière version : 18 août 2022
