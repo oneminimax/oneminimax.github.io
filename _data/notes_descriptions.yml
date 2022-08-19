@@ -1,3 +1,6 @@
 introduction calcul quantique:
   nicename: Introduction au calcul quantique
   description : Une introduction au calcul quantique. Notes utilisées dans le cadre du cours BSQ 110.
+test:
+  nicename: Beau test
+  description : C'est un test.

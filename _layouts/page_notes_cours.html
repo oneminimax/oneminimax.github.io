@@ -14,17 +14,18 @@ layout: default
   {% for file in site.static_files %}
     {% if file.path contains 'assets/notes_cours' %}
       {% assign notes = site.data.notes_descriptions[file.basename] %}
-      <h1 class="page-heading">{{ notes.nicename }} (<a href="{{ file.path | relative_url }}" target="_blank">PDF</a>)</h1>
+      <h2 class="post-list-heading">{{ notes.nicename }} (<a href="{{ file.path | relative_url }}" target="_blank">PDF</a>)</h2>
       
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-
-      {{ notes.description }}
-
-      <div class="post-meta">
-        Dernière version : {{ file.modified_time | date: date_format }}
-      </div>
-
-      
+      <ul class="post-list">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <li>
+          <span class="post-meta">{{ file.modified_time | date: date_format }}</span>
+          <h3>
+            {{ notes.description }}
+          </h3>
+        </li>
+      </ul>
+            
     {% endif %}
   {% endfor %}
 
