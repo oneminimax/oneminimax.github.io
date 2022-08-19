@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% for file in site.static_files %}
+    {% if file.path contains 'assets/notes_cours' %}
+      {% assign notes = site.data.notes_descriptions[file.basename] %}
+      <h1 class="page-heading">{{ notes.nicename }} (<a href="{{ file.path | relative_url }}" target="_blank">PDF</a>)</h1>
+      
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+      {{ notes.description }}
+
+      <div class="post-meta">
+        Dernière version : {{ file.modified_time | date: date_format }}
+      </div>
+
+      
+    {% endif %}
+  {% endfor %}
+
+</article>
