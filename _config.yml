@@ -19,11 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Les notes quantiques
+description: >- # this means to ignore newlines until "baseurl:"
+  Par Maxime Dion
 author:
   name: Maxime Dion
   email: maxime.dion@usherbrooke.ca
-description: >- # this means to ignore newlines until "baseurl:"
-  Développeur quantique et chargé de cours
+  occupation: Développeur quantique et chargé de cours
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
