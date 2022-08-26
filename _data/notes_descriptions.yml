@@ -2,3 +2,10 @@ introduction calcul quantique:
   nicename: Introduction au calcul quantique
   description : Une introduction au calcul quantique. Notes utilisées dans le cadre du cours BSQ 110.
   cover: couverture_intro_calcul.png
+  date: 2022-08-18
+
+estimation amplitude quantique:
+  nicename: Estimation d'amplitude quantique
+  description : Introduit la transformée de Fourier quantique et l'estimation de phase quantique afin de décrire le fonctionnement de l'estimation d'amplitude quantique. Document élaboré dans le cadre d'un projet avec l'École de Gestion de l'Université de Sherbrooke.
+  cover: couverture_estimation_amplitude.png
+  date: 2022-08-16

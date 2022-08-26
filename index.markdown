@@ -5,6 +5,6 @@
 layout: home
 ---
 
-<img src="/assets/img/couverture_intro_calcul.png">
+<img src="/assets/img/couverture_intro_calcul.png" height="300px"> <img src="/assets/img/couverture_estimation_amplitude.png" height="300px">
 
 J'ai joint l'AlgoLab quantique de l'Institut quantique à l'Université de Sherbrooke (originellement l'Espace IBM Q) en juin 2020. Une partie de mon travail consiste à apprendre et comprendre comment il est possible d'exploiter la puissance de calcul d'un ordinateur quantique. Ce faisant, j'ai rédigé divers documents afin de m'expliquer à moi-même certains concepts. Avant de rendre ceux-ci disponibles, il est cependant nécessaire d’effectuer un travail d'édition. Une fois ce travail fait, je les partage ici.
