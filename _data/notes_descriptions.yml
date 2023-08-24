@@ -1,8 +1,14 @@
 introduction calcul quantique:
   nicename: Introduction au calcul quantique
-  description : Une introduction au calcul quantique. Notes utilisées dans le cadre du cours BSQ 110.
+  description : Une introduction au calcul quantique. Notes utilisées dans le cadre des cours BSQ 110 et BSQ 101.
   cover: couverture_intro_calcul.png
-  date: 2023-01-31
+  date: 2023-08-24
+
+algorithmes quantiques:
+  nicename: Algorithmes quantiques
+  description : Descriptions de plusieurs algorhtmes quantiques. Notes utilisées dans le cadre des cours BSQ 110 et BSQ 101.
+  cover: couverture_algos_quantiques.png
+  date: 2023-08-24
 
 estimation amplitude quantique:
   nicename: Estimation d'amplitude quantique
