@@ -2,13 +2,13 @@ algorithmes quantiques:
   nicename: Algorithmes quantiques
   description : Descriptions de plusieurs algorithmes quantiques. Notes utilisées dans le cadre des cours BSQ 110 et BSQ 101.
   cover: couverture_algos_quantiques.png
-  date: 2023-08-24
+  date: 2024-01-14
 
 introduction calcul quantique:
   nicename: Introduction au calcul quantique
-  description : Une introduction au calcul quantique. Notes utilisées dans le cadre des cours BSQ 110 et BSQ 101.
+  description : Une introduction au calcul quantique. Notes utilisées dans le cadre des cours BSQ 110 et BSQ 101. Le nouveau chapitre sur la matrice densité est encore en rédaction.
   cover: couverture_intro_calcul.png
-  date: 2023-08-29
+  date: 2024-01-29
 
 estimation amplitude quantique:
   nicename: Estimation d'amplitude quantique
