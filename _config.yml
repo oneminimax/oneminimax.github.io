@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Les notes quantiques
+title: Site de Maxime Dion
 description: >- # this means to ignore newlines until "baseurl:"
   Par Maxime Dion
 author:
